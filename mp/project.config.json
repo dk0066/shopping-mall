@@ -7,10 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
 	"appid": "wxa000092170cab60f",
-	"projectname": "mp",
+	"projectname": "shopping-mall-mp",
 	"condition": {
 		"search": {
 			"current": -1,

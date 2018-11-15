@@ -30,6 +30,22 @@ function query(url, data = {}, method = "GET") {
 }
 
 function queryHome() {
+  wx.checkSession({
+    success: () => {
+      wx.getUserInfo({
+        success: (res) => {
+          console.log(res.userInfo);
+          console.log(res.signature);
+        },
+        fail: () => {
+          console.log("getUserInfo failed.")
+        }
+      })
+    },
+    fail: () => {
+      console.log("checkSession failed.")
+    }
+  })
   return query('/classes/Home');
 }
 

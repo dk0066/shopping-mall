@@ -8,8 +8,17 @@ Page({
     userInfo: {}
   },
   onLoad: function (options) {
+    let self = this;
     // 页面初始化 options为页面跳转所带来的参数
     console.log(app.globalData)
+
+    wx.getUserInfo({
+      success: (res) => {
+        self.setData({ userInfo: res.userInfo });
+        console.log(res.userInfo);
+        console.log(res.signature);
+      }
+    });
   },
   onReady: function () {
 
