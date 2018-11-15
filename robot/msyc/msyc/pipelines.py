@@ -7,6 +7,7 @@
 
 import json
 import requests
+import urllib
 
 class MsycPipeline(object):
     def open_spider(self, spider):
@@ -14,5 +15,13 @@ class MsycPipeline(object):
         self.headers = {'X-Parse-Application-Id': 'shopping-mall-app', 'Content-Type': 'application/json'}
 
     def process_item(self, item, spider):
-        requests.post(self.url + type(item).__name__, data={"country_code": "IT", "country_id": 21, "keyword": "Y", "name": "意大利"}, headers=self.headers)
-        spider.log(item)
+        data = item.__dict__['_values']
+        response = requests.post(self.url + type(item).__name__, data=json.dumps(data), headers=self.headers)
+
+    def has_country(self, item):
+        params = urllib.parse.quote(json.dumps({"where": {"country_id": 47}}))
+        r = requests.get(self.url + type(item).__name__ + "?" + params, headers=self.headers)
+        result = json.loads(r.test)
+
+        print(result)
+        

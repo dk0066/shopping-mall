@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "navigation-bar": "miniprogram-navigation-bar",
+    "parse": "miniprogram_npm/parse/index.js"
+  }
+}

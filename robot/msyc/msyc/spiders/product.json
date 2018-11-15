@@ -1,0 +1,545 @@
+// 20181113144014
+// https://m.msyc.cc/app/product/bycatid/v1?pid=48&pageNo=2&tmn=1
+
+{
+    "data": [
+      {
+        "advertise": "开启异域风情感官之旅 澄澈自然气息撩动心弦",
+        "areaIsOk": false,
+        "brandId": 868,
+        "brandName": "HERMES爱马仕",
+        "cartCount": 0,
+        "code": "1015012820",
+        "countryId": 22,
+        "countryName": "法国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 429.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 11873,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 344.30,
+        "leHomepagePicUrl": "product/image/20171120/20171120153210314.jpg",
+        "leKeyword": "爱马仕香水Hermes香水尼罗河花园香水",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 78,
+        "letId3": 354,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20171120/20171120153205152.jpg",
+        "marketPrice": 613,
+        "menuId": 354,
+        "menuName": "中性",
+        "name": "Hermès爱马仕 尼罗河花园中性淡香水 50ml",
+        "promotionType": 0,
+        "qty": 11,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 78,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 354,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 84.7
+      },
+      {
+        "advertise": "桃红少女粉嫩唇妆 俏皮柔润点缀甜美娇唇",
+        "areaIsOk": false,
+        "brandId": 571,
+        "brandName": "NARS纳斯",
+        "cartCount": 0,
+        "code": "1014086120",
+        "countryId": 15,
+        "countryName": "美国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 249.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 11840,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 186.69,
+        "leHomepagePicUrl": "product/image/20171121/20171121171847795.jpg",
+        "leKeyword": "NARS唇膏笔口红纳斯唇膏笔口红",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 53,
+        "letId3": 128,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20171121/20171121171843844.jpg",
+        "marketPrice": 356,
+        "menuId": 128,
+        "menuName": "唇部",
+        "name": "Nars纳斯 惹火唇膏 Natalie亮桃粉色 4.5g",
+        "promotionId": 643,
+        "promotionType": 0,
+        "qty": 238,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 53,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 128,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 62.31
+      },
+      {
+        "advertise": "一抹勾人少女甜美粉唇 3D柔亮摄人心魄",
+        "areaIsOk": false,
+        "brandId": 862,
+        "brandName": "MAQuillAGE心机彩妆",
+        "cartCount": 0,
+        "code": "1014075320",
+        "countryId": 13,
+        "countryName": "日本",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 179.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 10990,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 143.17,
+        "leHomepagePicUrl": "product/image/20171007/20171007132448415.jpg",
+        "leKeyword": "资生堂心机唇釉唇彩心机美妆",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 53,
+        "letId3": 128,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20171007/20171007132444822.jpg",
+        "marketPrice": 256,
+        "menuId": 128,
+        "menuName": "唇部",
+        "name": "MAQuillAGE心机彩妆 美容液唇釉 PK393 6g",
+        "promotionType": 0,
+        "qty": 37,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 53,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 128,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 35.83
+      },
+      {
+        "advertise": "美妆圈盛传口碑款 痘皮挚爱遮瑕方程式",
+        "areaIsOk": false,
+        "brandId": 863,
+        "brandName": "Covermark傲丽",
+        "cartCount": 0,
+        "code": "1014074820",
+        "countryId": 13,
+        "countryName": "日本",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 189.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 10985,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 149.68,
+        "leHomepagePicUrl": "product/image/20171010/20171010134111876.jpg",
+        "leKeyword": "covermark替换粉底膏粉底液遮瑕膏",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 53,
+        "letId3": 130,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20171010/20171010134107743.jpg",
+        "marketPrice": 270,
+        "menuId": 130,
+        "menuName": "定妆",
+        "name": "Covermark傲丽  魔术粉膏替换芯 O-20 SPF33/PA+++    12g",
+        "promotionType": 0,
+        "qty": 22,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 53,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 130,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 39.32
+      },
+      {
+        "advertise": "俘获35国IT GIRLS 控油隐瑕疵持久定妆",
+        "areaIsOk": false,
+        "brandId": 620,
+        "brandName": "essence",
+        "cartCount": 0,
+        "code": "1014060220",
+        "countryId": 17,
+        "countryName": "德国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 49.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 10906,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 36.19,
+        "leHomepagePicUrl": "product/image/20170926/20170926155657810.jpg",
+        "leKeyword": "散粉修容粉定妆粉饼",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 53,
+        "letId3": 129,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20170926/20170926155654558.jpg",
+        "marketPrice": 70,
+        "menuId": 129,
+        "menuName": "底妆",
+        "name": "essence 精致修容粉饼 01号色  8g",
+        "promotionType": 0,
+        "qty": 105,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 53,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 129,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 12.81
+      },
+      {
+        "advertise": "张馨予同款精华液  平整粗糙启柔光美肌",
+        "areaIsOk": false,
+        "brandId": 641,
+        "brandName": "CPB肌肤之钥",
+        "cartCount": 0,
+        "code": "1011067920",
+        "countryId": 13,
+        "countryName": "日本",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 689.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 10105,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 572.10,
+        "leHomepagePicUrl": "product/image/20170905/20170905164411913.jpg",
+        "leKeyword": "CPB精华液精华露紧肤蜜资生堂",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 52,
+        "letId3": 348,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20170905/20170905164407850.jpg",
+        "marketPrice": 984,
+        "menuId": 348,
+        "menuName": "面部精华",
+        "name": "CPB肌肤之钥 水磨精华液 170ml",
+        "promotionId": 698,
+        "promotionType": 0,
+        "qty": 101,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 52,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 348,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 116.9
+      },
+      {
+        "advertise": "莎拉·杰西卡补水挚爱晒后舒润天然“小绿罐”",
+        "areaIsOk": false,
+        "brandId": 785,
+        "brandName": "PETER THOMAS ROTH 彼得罗夫",
+        "cartCount": 0,
+        "code": "1012031720",
+        "countryId": 15,
+        "countryName": "美国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 219.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 9896,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 166.06,
+        "leHomepagePicUrl": "product/image/20181009/20181009174101566.jpg",
+        "leKeyword": "彼得罗夫补水保湿面膜黄瓜面膜",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 69,
+        "letId3": 101,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20181009/20181009174058329.jpg",
+        "marketPrice": 313,
+        "menuId": 101,
+        "menuName": "面膜",
+        "name": "PETER THOMAS ROTH彼得罗夫 青瓜面膜（青瓜舒缓补水面膜） 150ml",
+        "promotionType": 0,
+        "qty": 62,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 69,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 101,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 52.94
+      },
+      {
+        "advertise": "频登杂志的惊喜礼盒以发酵之力润滢泽之美",
+        "areaIsOk": false,
+        "brandId": 498,
+        "brandName": "SU:M37°呼吸",
+        "cartCount": 0,
+        "code": "1011054320",
+        "countryId": 14,
+        "countryName": "韩国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 659.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 5902,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 521.70,
+        "leHomepagePicUrl": "product/image/20181008/20181008162356819.jpg",
+        "leKeyword": "sum37时光 苏秘时光 呼吸时光 sum37套装 苏秘套装 呼吸套装 sum37礼盒 苏秘礼盒 呼吸礼盒 能量套装",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 52,
+        "letId3": 351,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20181008/20181008162353151.jpg",
+        "marketPrice": 941,
+        "menuId": 351,
+        "menuName": "套装",
+        "name": "su:m37º 呼吸 时光能量水乳面霜补水保湿三件套",
+        "promotionId": 4077,
+        "promotionType": 0,
+        "qty": 291,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 52,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 351,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 137.3
+      },
+      {
+        "advertise": "清雅水生花温柔萦绕 恋上妩媚柔情自然体香",
+        "areaIsOk": false,
+        "brandId": 671,
+        "brandName": "Kenzo",
+        "cartCount": 0,
+        "code": "1015006320",
+        "countryId": 22,
+        "countryName": "法国",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 179.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 3864,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 141.00,
+        "leHomepagePicUrl": "product/image/20170401/20170401100907330.jpg",
+        "leKeyword": "Kenzo淡香水女士香氛纯净之水",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 78,
+        "letId3": 137,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20170401/20170401100856678.jpg",
+        "marketPrice": 256,
+        "menuId": 137,
+        "menuName": "女士",
+        "name": "Kenzo高田贤三 纯净之水女士香水 Edt. 30ml",
+        "promotionType": 0,
+        "qty": 156,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 78,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 137,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 38.0
+      },
+      {
+        "advertise": "日本各大杂志隆重推荐 立体修容秒变小V脸",
+        "areaIsOk": false,
+        "brandId": 640,
+        "brandName": "FLOWFLUSHI",
+        "cartCount": 0,
+        "code": "1014035020",
+        "countryId": 13,
+        "countryName": "日本",
+        "f_menuId": 48,
+        "flag": 1.0,
+        "freePrice": 189.0,
+        "goodsProps": [
+          
+        ],
+        "heat": 0,
+        "id": 3631,
+        "isFreePostage": 0,
+        "isSingleOrder": 0,
+        "leBuyMin": 1,
+        "leCost": 140.30,
+        "leHomepagePicUrl": "product/image/20170321/20170321164652966.jpg",
+        "leKeyword": "熊野职人遮瑕笔FLOWFUSHI遮瑕液",
+        "leRate": 1.0,
+        "leSpecs": [
+          
+        ],
+        "leStat": 1,
+        "letId1": 48,
+        "letId2": 53,
+        "letId3": 129,
+        "letSpecs": [
+          
+        ],
+        "mainPicUrl": "product/image/20170321/20170321164639602.jpg",
+        "marketPrice": 270,
+        "menuId": 129,
+        "menuName": "底妆",
+        "name": "FLOWFUSHI 熊野职人双头遮瑕高光熊野笔（自然型） 7g",
+        "promotionType": 0,
+        "qty": 24,
+        "returnPics": [
+          
+        ],
+        "s_menuId": 53,
+        "saleRule": "",
+        "saleState": 1,
+        "saleTime": "2018-11-13 12:30:00",
+        "t_menuId": 129,
+        "tmnId": 1,
+        "type": 0,
+        "zlr": 48.7
+      }
+    ],
+    "totalPage": 245,
+    "errCode": 10000,
+    "errMsg": "查询成功",
+    "sysTime": "2018-11-13 14:40:13",
+    "totalCount": 2446
+  }

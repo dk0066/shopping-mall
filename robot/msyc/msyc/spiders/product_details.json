@@ -1,0 +1,367 @@
+// 20181113144434
+// https://m.msyc.cc/product/goodsinfo?tmn=1&gid=12144
+
+{
+    "code": "1014103120",
+    "leRate": 1,
+    "videos": [
+      {
+        "picUrl": "magazine/image/20171206/20171206092229562.jpg",
+        "videoUrl": "https://msyc-video.oss-cn-shenzhen.aliyuncs.com/ONIONTV/FeiChangDaPai/3_NYX%20Voltage%20Lipsticks%20First%20Impression%20&%20Lip%20Swatches.mp4",
+        "id": 315,
+        "title": "22支NYX超全试色，堪比M.A.C的显色大拿"
+      }
+    ],
+    "isSingleOrder": 0,
+    "marketPrice": 99,
+    "mainPicUrl": "product/image/20171128/20171128162832707.jpg",
+    "bcPrice": 45.92,
+    "goodsPics": [
+      {
+        "picUrl": "product/image/20171128/20171128162835159.jpg"
+      }
+    ],
+    "magazines": [
+      {
+        "content": "作为一个口红集色控！想把所有色号都带回家，\r\n一天一个颜色，1个月不重复。\r\n出门橘红色，约会裸粉色，通勤则用豆沙色……\r\n但口红那么多，钱那么少，\r\n最近口红狂魔Emma给我安利了几个牌子，\r\n有媲",
+        "picUrl": "goodthing/image/20171204/20171204170005475.jpg",
+        "id": 319,
+        "title": "香奈儿、Dior的平替款"
+      }
+    ],
+    "leStat": 1,
+    "goodsDesc": "<img src=\"http://img.51msyc.com/product/image/20171128/20171128162910733.jpg\" alt=\"\" /><img src=\"http://img.51msyc.com/product/image/20171128/20171128162911077.jpg\" alt=\"\" /><img src=\"http://img.51msyc.com/product/image/20171128/20171128162911174.jpg\" alt=\"\" /><img src=\"http://img.51msyc.com/product/image/20171128/20171128162911381.jpg\" alt=\"\" /><img src=\"http://img.51msyc.com/product/image/20171128/20171128162911591.jpg\" alt=\"\" /><img src=\"http://img.51msyc.com/product/image/20171128/20171128162911733.jpg\" alt=\"\" />",
+    "buyLimit": 5,
+    "profitPoint": 0,
+    "id": 12144,
+    "deliverQty": 1,
+    "category": {
+      "id": 128,
+      "name": "唇部"
+    },
+    "goodsProps": [
+      {
+        "isKey": 0,
+        "propValue": "2.5g",
+        "picUrl": "",
+        "propName": "净含量/规格",
+        "propId": 48,
+        "enName": "净含量/规格"
+      },
+      {
+        "isKey": 0,
+        "propValue": "女士",
+        "picUrl": "",
+        "propName": "适用人群",
+        "propId": 60,
+        "enName": "适用人群"
+      },
+      {
+        "isKey": 0,
+        "propValue": "台湾",
+        "picUrl": "",
+        "propName": "产地",
+        "propId": 155,
+        "enName": "产地"
+      },
+      {
+        "isKey": 0,
+        "propValue": "12个月",
+        "picUrl": "",
+        "propName": "开封后保质期",
+        "propId": 58,
+        "enName": "开封后保质期"
+      },
+      {
+        "isKey": 0,
+        "propValue": "膏体",
+        "picUrl": "",
+        "propName": "性状/质地",
+        "propId": 34,
+        "enName": "性状/质地"
+      },
+      {
+        "isKey": 1,
+        "propValue": "由于海外品牌版本更新较快，更新的包括外包装，条形码，瓶身等设计变化，洋葱OMALL将采取新旧版随机发货。新旧更迭出现产品详情页未及时更新的情况敬请各位用户谅解，并请以收到的实物为准。洋葱OMALL承诺，您所收到的所有产品均属原产国品牌大宗直采直邮正品。",
+        "picUrl": "",
+        "propName": "包装说明",
+        "propId": 53,
+        "enName": "包装说明"
+      },
+      {
+        "isKey": 1,
+        "propValue": "1.使用后若皮肤出现不适请停止使用。#2.置于儿童触碰不到的地方。#3.避光，置于阴凉干燥处。",
+        "picUrl": "",
+        "propName": "特别说明",
+        "propId": 54,
+        "enName": "特别说明"
+      },
+      {
+        "isKey": 1,
+        "propValue": "在唇部肌肤轻轻涂抹，可根据需要重复多次涂抹。",
+        "picUrl": "",
+        "propName": "使用方法",
+        "propId": 49,
+        "enName": "使用方法"
+      },
+      {
+        "isKey": 1,
+        "propValue": "1.潋滟高压电 饱满显色#浓艳色泽配方以高饱和显色度，力求打造电力十足的惊艳唇妆。#2.滋养修护 柔润双唇#蕴含蜂蜡滋养，舒缓干燥环境对双唇的伤害，赋予双唇柔滑弹润。#3.奶油质地 顺滑涂抹#如奶油般柔滑的膏体，顺滑涂抹与双唇融为一体，轻盈持久持妆。#4.深酒红色 气场高昂#浓烈的酒红色中添多了一分梅子色，更棕更暗加乘女王气场，凸显潮酷前卫个性。#",
+        "picUrl": "",
+        "propName": "产品功效",
+        "propId": 39,
+        "enName": "产品功效"
+      }
+    ],
+    "isChoose": 1,
+    "leBuyMin": 1,
+    "salePoint": "气场酒红 奶油质地 饱满显色 柔润滋养",
+    "leEditor": "angelacrazy",
+    "proInfos1": [
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 4,
+        "name": "M.A.C魅可 水漾润泽唇膏See Sheer 3g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 159,
+        "id": 2596,
+        "mainPicUrl": "product/image/20180206/20180206185122518.jpg",
+        "qty": 1614
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 6,
+        "name": "M.A.C魅可 时尚唇膏CHILI 3g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 159,
+        "id": 1922,
+        "mainPicUrl": "product/image/20160427/20160427140525911_400.jpg",
+        "qty": 1294
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 3,
+        "name": "Makeheal美刻绘儿 轻透丝绒唇膏 OR0702神秘橙红色 4g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 129,
+        "id": 34595,
+        "mainPicUrl": "ERPimage/product/20181110/98297972-4d93-4079-9b20-d707a887c51c.jpg",
+        "qty": 849
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 3,
+        "name": "Makeheal美刻绘儿 轻透丝绒唇膏 BR0201潮流玫瑰色 4g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 129,
+        "id": 34590,
+        "mainPicUrl": "ERPimage/product/20181110/a8eb7adc-d1ec-45b0-8cca-5c8b1649988d.jpg",
+        "qty": 610
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 3,
+        "name": "Makeheal美刻绘儿 轻透丝绒唇膏 BE0101深夜玫瑰色 4g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 129,
+        "id": 34588,
+        "mainPicUrl": "ERPimage/product/20181110/26949538-8832-4e3c-9c39-4cd59dffd326.jpg",
+        "qty": 553
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 3,
+        "name": "Estee Lauder雅诗兰黛 绝对欲望柔雾唇膏 230 commanding 3.5g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 229,
+        "id": 12394,
+        "mainPicUrl": "product/image/20180125/20180125154804790.jpg",
+        "qty": 539
+      },
+      {
+        "leStat": 1,
+        "saleState": 3,
+        "buyLimit": 3,
+        "name": "BBIA 谬斯女神完美唇膏（赤色系列） 04 理智 3.2g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 59,
+        "id": 3881,
+        "mainPicUrl": "product/image/20170401/20170401114336796.jpg",
+        "qty": 511
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "buyLimit": 5,
+        "name": "essence 瞬间显色恒润口红 20号rich mahogany 3.5g",
+        "goodsHeat": 1,
+        "type": 0,
+        "freePrice": 39,
+        "id": 12123,
+        "mainPicUrl": "product/image/20180404/20180404104134404.jpg",
+        "qty": 468
+      }
+    ],
+    "saleTime": "2018-11-13 12:30:00",
+    "faqs": [
+      
+    ],
+    "leArea": 0,
+    "parentId": null,
+    "promotionId": "",
+    "type": 0,
+    "labelUrl": "label/image/20180705/20180705135614461.jpg",
+    "leGroupId": 0,
+    "brand": {
+      "url": "brand/image/20171128/20171128105809124.jpg",
+      "remark": "来自美国的专业彩妆NYX，强调简单的生活与简单的彩妆，回归到最单纯的原点让彩妆发挥最大的作用。价格便宜、出的颜色也都很漂亮、年轻，显色度也非常棒。几年前LA地区推出一款新化妆品牌NYX，一出来就是打名要当高贵不贵的开架高档货。",
+      "id": 988,
+      "name": "NYX"
+    },
+    "introduce": "",
+    "isAtten": 1,
+    "proInfos": [
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "AGE 20's 精华遮瑕粉底 白色拿铁 13号色 SPF50+/PA+++ （正装12.5g+替换装12.5g）/盒",
+        "goodsHeat": 1,
+        "buyLimit": 6,
+        "freePrice": 169,
+        "id": 13694,
+        "mainPicUrl": "product/image/20180111/20180111205650315.jpg",
+        "qty": 5542
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "Bioderma贝德玛 舒妍洁肤液卸妆水 500ml",
+        "goodsHeat": 1,
+        "buyLimit": 2,
+        "freePrice": 145,
+        "id": 639,
+        "mainPicUrl": "product/image/20180209/20180209180950781.jpg",
+        "qty": 4733
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "Embryolisse 保湿妆前打底乳隔离霜 75ml",
+        "goodsHeat": 1,
+        "buyLimit": 4,
+        "freePrice": 189,
+        "id": 22819,
+        "mainPicUrl": "product/image/20181109/20181109164636168.jpg",
+        "qty": 3028
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "LANEIGE兰芝 雪纱丝柔防晒隔离霜Green 30ml",
+        "goodsHeat": 1,
+        "buyLimit": 6,
+        "freePrice": 199,
+        "id": 1382,
+        "mainPicUrl": "product/image/20180328/20180328173236311.jpg",
+        "qty": 2413
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "Bioderma贝德玛 净妍控油洁肤液 500ml",
+        "goodsHeat": 1,
+        "buyLimit": 6,
+        "freePrice": 149,
+        "id": 1765,
+        "mainPicUrl": "product/image/20160318/20160318105236776_400.jpg",
+        "qty": 2401
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "LANEIGE兰芝 柔光调色隔离霜 40柔紫色 SPF22/PA++ 15g正装+15g替换装",
+        "goodsHeat": 1,
+        "buyLimit": 4,
+        "freePrice": 199,
+        "id": 20726,
+        "mainPicUrl": "product/image/20180330/20180330141354258.jpg",
+        "qty": 2251
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "AGE 20's 精华遮瑕粉底 白色拿铁 21号色 SPF50+/PA+++  （正装12.5g+替换装12.5g）/盒",
+        "goodsHeat": 1,
+        "buyLimit": 6,
+        "freePrice": 169,
+        "id": 9907,
+        "mainPicUrl": "product/image/20170821/20170821161444737.jpg",
+        "qty": 1878
+      },
+      {
+        "leStat": 1,
+        "saleState": 1,
+        "type": 0,
+        "name": "M.A.C魅可 水漾润泽唇膏See Sheer 3g",
+        "goodsHeat": 1,
+        "buyLimit": 4,
+        "freePrice": 159,
+        "id": 2596,
+        "mainPicUrl": "product/image/20180206/20180206185122518.jpg",
+        "qty": 1614
+      }
+    ],
+    "qty": 184,
+    "isFreePostage": 0,
+    "saleState": 1,
+    "enName": "NYX HIGH VOLTAGE LIP STICK BURLESQUE",
+    "saleGuide": "追求个性创意及小众新锐品牌在时尚圈越演越甚，NYX作为LA地区新兴专业彩妆品牌，在各大美妆博主must have清单中总有它的一席之地，甚至获得《Essentials》、《Hair》、《LOOK》等时尚美妆杂志高度评价，能在YouTube美妆分享榜上斩获高人气并不稀奇。如奶油般柔滑立体唇膏完美贴合唇部轮廓，优雅地在唇上划过，感受饱满色泽倾覆上唇的轻盈魅力，加一份蜂蜡滋养与双唇亲密接触，赋予双唇丰润水份同时为双唇披上焕活饱满色彩，深酒红色再次诠释个性迸发的女王气场，凸显立体五官，高昂气场令人一见难忘。",
+    "goodsMaterials": {
+      "total_count": 0,
+      "data": [
+        
+      ]
+    },
+    "videoUrl": "",
+    "name": "NYX 高压电系列唇膏 20号BURLESQUE 2.5g",
+    "leSprice2": 0,
+    "leCost": 51.02,
+    "country": {
+      "code": "US",
+      "customsCode": "502",
+      "name": "美国"
+    },
+    "freePrice": 69,
+    "categoryType": 0,
+    "goodsHeat": 1,
+    "saleRule": "",
+    "dfniPic": "",
+    "dfniDetail": "",
+    "lelabels": [
+      
+    ],
+    "sysTime": "2018-11-13 14:44:33",
+    "messageFlag": 0,
+    "discountPrice": 0,
+    "detailedSalesTag": ""
+  }
